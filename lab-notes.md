@@ -10,3 +10,7 @@
 1. First step
 2. Second step
 [Visit GitHub](https://github.com)
+
+## Ryan's contributions
+- Added a bulletpoint
+- Added my name 
